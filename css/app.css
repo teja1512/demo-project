@@ -1,0 +1,39 @@
+body {
+    background-color: #aafafa;
+    color: #2e3d49;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 6px;
+    position: relative;
+    text-transform: uppercase;
+}
+img {
+	height: 25%;
+    width: 25%;
+}
+footer {
+    border-top: 2px solid #dbe2e8;
+    margin-top: 4em;
+    padding: 2em;
+    text-align: center;
+}
+p {
+    line-height: 1.5;
+}
+.container {
+    margin: auto;
+    max-width: 1300px;
+}
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
+}
